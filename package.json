@@ -15,6 +15,6 @@
   "description": "Basic NPM package to demonstrate package.json structure",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/themanvendra08/my-npm-package.git"
   }
 }
